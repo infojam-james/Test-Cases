@@ -32,6 +32,15 @@ When a Confidential First Aid form is generated, the following fields should be 
 |--------------------|:------------------|
 |Name of Casualty|
 |Job Title|
+|Incident Location|
+|Age|
+|Did the incident occur to: (multiple choice)|
+|Incident date|
+|Incident time|
+|Nature of injury|
+|Treatment administered/advice given|
+|Referred for medical attention (Yes/No)|
+
 
 
 ##Expected Result
