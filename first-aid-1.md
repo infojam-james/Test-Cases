@@ -1,25 +1,22 @@
-#Login Page – Authenticate Successfully on gmail.com
+#Incident Logging - Submit non work-related incident
 
 ##Description
-A registered user should be able to successfully login at gmail.com.
+A user should be able to indicate that a new incident is non work-related.
 
-##Precondition 
-The user must already be registered with an email address and password.
+##Preconditions
++ The user must already be registered with an email address and password.
 
-##Assumption
-A supported browser is being used.
+##Assumptions
++ A supported browser is being used.
++ The user has completed all other mandatory fields in the incident reporting form.
 
 ##Test Steps:
 
-1 Navigate to gmail.com
+1 Navigate to screen 5 ('Further Info') of the incident form
 
-2 In the ’email’ field, enter the email of the registered user.
+2 In the 'Was the incident work related?' field, enter 'No'
 
-3 Click the ‘Next’ button.
-
-4 Enter the password of the registered user
-
-5 Click ‘Sign In’
+3 Click the ‘Submit’ button
 
 ##Expected Result
-A page displaying the gmail user’s inbox should load, showing any new message at the top of the page.
+A new incident is logged with the status 'Not Work Related'
