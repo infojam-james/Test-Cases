@@ -9,6 +9,7 @@ A user should be able to indicate that a new incident is non work-related.
 ##Assumptions
 + A supported browser is being used.
 + The user has completed all other mandatory fields in the incident reporting form.
++ The incident did not involve a fatality.
 
 ##Test Steps:
 
