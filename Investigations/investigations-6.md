@@ -1,6 +1,6 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Opening an Investigation - Notification to injured Person
+#Opening an Investigation - Notification to Injured Person
 
 ##Description
 A user should receive an email confirming when an investigation is opened on an incident that happened to them.
