@@ -37,3 +37,10 @@ The Assistant Director of the person the incident happened to receives an email 
 >**YorSafety: Investigation questions initiated**
 
 >An investigations questions procedure has been initiated.  You will be notified by email again when this case has been authorised.
+
+##Concurrent Expected Results
+See [Opening an Investigation - Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-1.md)
+
+See [Opening an Investigation - Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-4.md)
+
+See [Opening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-5.md)
