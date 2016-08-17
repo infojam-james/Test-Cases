@@ -28,3 +28,7 @@ A system administrator should receive an email confirming when a completed Inves
 >**YorSafety: Investigation questions completed - awaiting review**
 
 >The Investigations questions associated with this incident have been completed by the Case Lead.  You are now required to review the investigation and either amend or finalise.
+
+##Concurrent Expected Results
+
+See [Submitting an Investigation - Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-8.md)
