@@ -32,4 +32,4 @@ A Case Lead should be able to confirm that an incident logged as non work-relate
 + The Case Status changes to 'Not Work Related (Closed)'
 + The First Aid form becomes available
 
-[Return to Contents](contents.md)
+[Return to Contents](Contents.md)
