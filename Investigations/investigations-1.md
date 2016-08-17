@@ -31,4 +31,6 @@ A system administrator should receive an email confirming when they open an inve
 ##Expected Result
 The user receives an email containing the following message:
 
+>**YorSafety: Investigation questions initiated**
+
 >You have changed the status to 'Investigation (Open)'.  This has initiated the Investigations questions, and the Case Lead has been notified.
