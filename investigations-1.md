@@ -10,6 +10,7 @@ A system administrator should receive an email confirming when they open an inve
 
 ##Assumptions
 + A supported browser is being used.
++ The user has access to the inbox for the email address they registered onto the system with.
 
 ##Test Steps:
 
