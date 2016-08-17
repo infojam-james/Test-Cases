@@ -22,4 +22,4 @@ A user should be able to indicate that a new incident is non work-related.
 ##Expected Result
 A new incident is logged with the status 'Not Work Related'
 
-[Return to Contents](Contents.md)
+[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
