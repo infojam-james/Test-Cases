@@ -1,3 +1,5 @@
+[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
+
 #Opening an Investigation - Notification to Assistant Director
 
 ##Description
@@ -35,5 +37,3 @@ The Assistant Director of the person the incident happened to receives an email 
 >**YorSafety: Investigation questions initiated**
 
 >An investigations questions procedure has been initiated.  You will be notified by email again when this case has been authorised.
-
-[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
