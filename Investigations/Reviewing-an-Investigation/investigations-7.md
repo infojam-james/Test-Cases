@@ -31,4 +31,6 @@ A system administrator should receive an email confirming when a completed Inves
 
 ##Concurrent Expected Results
 
-See [Submitting an Investigation - Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-8.md)
+See [Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-8.md)
+
+See [Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-9.md)
