@@ -24,3 +24,7 @@ The Case Status of an incident should change when a completed Investigation form
 
 ##Expected Result
 + The Status of the incident in question changes to 'Investigation (Review)'.
+
+##Concurrent Expected Results
+
+See [Reviewing an Investigation - Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-7.md)
