@@ -7,7 +7,8 @@ When a Confidential First Aid form is generated, the following fields should be 
 + The user must already be registered with an email address and password.
 + The user must have system administrator permissions.
 + All mandatory questions were completed when recording the incident in question.
-+ The incident in question has the Status 'Not Work Related (Closed)'.
++ The categorisation for the incident prompted the 'Was First Aid administered?' question.
++ The 'Was First Aid administered?' question for the incident was responded 'Yes'.
 
 ##Assumptions
 + A supported browser is being used.
@@ -28,20 +29,21 @@ When a Confidential First Aid form is generated, the following fields should be 
 
 5 Ensure the text entered matches that entered into the equivalent field from the Incident Report Form:
 
-| First Aid Form field|Equivalent Incident Report Form field
-|--------------------|:------------------|
-|Name of Casualty|
-|Job Title|
-|Incident Location|
-|Age|
-|Did the incident occur to: (multiple choice)|
-|Incident date|
-|Incident time|
-|Nature of injury|
+|First Aid Form field|Equivalent Incident Report Form field
+|--|:--|
+|Name of Casualty|Forename & Surname|
+|Job Title|Job Title|
+|Incident Location|Incident Address|
+|Age|Age|
+|Did the incident occur to: (multiple choice)|Are you/Are they|
+|Other (specify)|Are you/Are they (if all previous blank|
+|Incident date|Date of Incident|
+|Incident time|Injury Detail / Treatment|
+|Nature of injury|Advice given / received|
 |Treatment administered/advice given|
-|Referred for medical attention (Yes/No)|
-
-
+|Referred for medical attention (Yes/No)|Were they referred for medical attention?|
+|Time of treatment: (24 hour clock)|Time of Treatment?|
+|Name of first aider or approved person:|Name of First Aider?|
 
 ##Expected Result
-A page displaying the gmail user’s inbox should load, showing any new message at the top of the page.
+The First Aid form should be pre-populated with the exact information entered into the incident form.
