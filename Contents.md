@@ -9,6 +9,9 @@
 [First Aid form - pre-population](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-3.md)
 
 ###Investigations
+
+####Opening an Investigation
+
 [Opening an Investigation - Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-1.md)
 
 [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-2.md)
@@ -18,6 +21,8 @@
 [Opening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-5.md)
 
 [Opening an Investigation - Notification to injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-6.md)
+
+####Authorising an Investigation
 
 [Authorising an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-3.md)
 
