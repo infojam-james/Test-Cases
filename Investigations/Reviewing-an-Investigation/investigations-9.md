@@ -27,7 +27,7 @@ A Case Lead should receive an email notification when they have submitted a comp
 
 >**YorSafety: Investigation questions completed - awaiting review**
 
->You have completed all required Investigation questions.  The case is now under review with the Health & Safety.  You will be notified by email if you are required to amend any of the details you have entered.  
+>You have completed all required Investigation questions.  The case is now under review with the Health & Safety Team.  You will be notified by email if you are required to amend any of the details you have entered.  
 
 ##Concurrent Expected Results
 
