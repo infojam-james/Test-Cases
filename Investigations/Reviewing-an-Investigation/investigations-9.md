@@ -23,7 +23,7 @@ A Case Lead should receive an email notification when they have submitted a comp
 3 Click the 'Complete Investigation' button.
 
 ##Expected Result
-+ The user receives an email containing the following message:
+The user receives an email containing the following message:
 
 >**YorSafety: Investigation questions completed - awaiting review**
 
