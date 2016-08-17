@@ -43,4 +43,4 @@ See [Opening an Investigation - Notification to Health & Safety Co-ordinator](ht
 
 See [Opening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-5.md)
 
-[Opening an Investigation - Notification to Injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-6.md)
+See [Opening an Investigation - Notification to Injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-6.md)
