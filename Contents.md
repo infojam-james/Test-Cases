@@ -13,6 +13,7 @@
 
 [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-2.md)
 
+[Opening an Investigation - Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-4.md)
+
 [Authorising an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-3.md)
 
-[Opening an Investigation - Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-4.md)
