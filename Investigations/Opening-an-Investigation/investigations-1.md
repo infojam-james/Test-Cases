@@ -37,10 +37,10 @@ The user receives an email containing the following message:
 
 ##Concurrent Expected Results
 
-See [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-2.md)
+See [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-2.md)
 
-See [Opening an Investigation - Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-4.md)
+See [Opening an Investigation - Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-4.md)
 
-See [Opening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-5.md)
+See [Opening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-5.md)
 
-See [Opening an Investigation - Notification to Injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-6.md)
+See [Opening an Investigation - Notification to Injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-6.md)
