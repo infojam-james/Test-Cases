@@ -15,5 +15,7 @@
 
 [Opening an Investigation - Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-4.md)
 
+[Opening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-5.md)
+
 [Authorising an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-3.md)
 
