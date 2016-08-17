@@ -31,4 +31,4 @@ The user receives an email containing the following message:
 
 >You have changed the status to 'Investigation (Open)'.  This has initiated the Investigations questions, and the Case Lead has been notified.
 
-[Return to Contents](contents.md)
+[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
