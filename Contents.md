@@ -9,7 +9,7 @@
 [First Aid form - pre-population](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-3.md)
 
 ###Investigations
-[Incident Screen - Confirmation email of opened investigation](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-1.md)
+[Opening an Investigation - Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-1.md)
 
 [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-2.md)
 
