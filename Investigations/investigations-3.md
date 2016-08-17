@@ -36,4 +36,4 @@ The Assistant Director of the person the incident happened to receives an email 
 
 >This investigation has now been authorised.
 
-[Return to Contents](contents.md)
+[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
