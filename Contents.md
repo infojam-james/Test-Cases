@@ -32,7 +32,7 @@
 
 ####Re-opening an Investigation
 
-[Reopening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reopening-an-Investigation/investigations-10.md)
+[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reopening-an-Investigation/investigations-10.md)
 
 ####Finalising an Investigation
 
