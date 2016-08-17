@@ -24,6 +24,10 @@
 
 ####Reviewing an Investigation
 
+[Submitting an Investigation - Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-8.md)
+
+[Reviewing an Investigation - Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-7.md)
+
 ####Re-opening an Investigation
 
 ####Finalising an Investigation
