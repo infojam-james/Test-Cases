@@ -1,3 +1,5 @@
+[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
+
 #Authorising an Investigation - Notification to Assistant Director
 
 ##Description
@@ -35,5 +37,3 @@ The Assistant Director of the person the incident happened to receives an email 
 >**YorSafety: Case authorised**
 
 >This investigation has now been authorised. 
-
-[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
