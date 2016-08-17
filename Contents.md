@@ -28,6 +28,8 @@
 
 [Reviewing an Investigation - Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-7.md)
 
+[Reviewing an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-9.md)
+
 ####Re-opening an Investigation
 
 ####Finalising an Investigation
