@@ -2,7 +2,7 @@
 ## Contents
 
 ###First Aid/Non work-related Incidents
-[Incident Logging - Submit non work-related incident](First Aid/first-aid-1.md)
+[Incident Logging - Submit non work-related incident](first-aid-1.md)
 
 [Incident Screen - Confirm incident is non work-related](first-aid-2.md)
 
