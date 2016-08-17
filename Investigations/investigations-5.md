@@ -30,7 +30,7 @@ A Line Manager should receive an email informing them when an investigation has 
 ##Expected Result
 The Case Lead receives an email containing the following message:
 
-##Concurrent Results
+##Concurrent Expected Results
 See [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-2.md)
 
 See [Opening an Investigation - Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-4.md)
