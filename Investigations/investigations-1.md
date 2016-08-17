@@ -1,6 +1,6 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Opening an Investigation - Notification to health & Safety Team
+#Opening an Investigation - Notification to Health & Safety Team
 
 ##Description
 A system administrator should receive an email confirming when they open an investigation on an incident.
@@ -34,3 +34,10 @@ The user receives an email containing the following message:
 >**YorSafety: Investigation questions initiated**
 
 >You have changed the status to 'Investigation (Open)'.  This has initiated the Investigations questions, and the Case Lead has been notified.
+
+##Concurrent Expected Results
+See [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-2.md)
+
+See [Opening an Investigation - Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-4.md)
+
+See [Opening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-5.md)
