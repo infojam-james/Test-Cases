@@ -11,4 +11,4 @@
 ###Investigations
 [Incident Screen - Confirmation email of opened investigation](investigations-1.md)
 
-[Investigations - Notification to Assistant Director](investigations-2.md)
+[Opening an Investigation - Notification to Assistant Director](investigations-2.md)
