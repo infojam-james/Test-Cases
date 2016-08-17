@@ -22,6 +22,12 @@
 
 [Opening an Investigation - Notification to Injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-6.md)
 
+####Reviewing an Investigation
+
+####Re-opening an Investigation
+
+####Finalising an Investigation
+
 ####Authorising an Investigation
 
 [Authorising an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-Investigation/investigations-3.md)
