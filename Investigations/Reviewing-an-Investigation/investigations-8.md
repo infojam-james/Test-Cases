@@ -23,7 +23,7 @@ The Case Status of an incident should change when a completed Investigation form
 3 Click the 'Complete Investigation' button.
 
 ##Expected Result
-+ The Status of the incident in question changes to 'Investigation (Review)'.
+The Status of the incident in question changes to 'Investigation (Review)'.
 
 ##Concurrent Expected Results
 
