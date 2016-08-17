@@ -1,4 +1,4 @@
-#Investigations - Notification to Assistant Director
+#Opening an Investigation - Notification to Assistant Director
 
 ##Description
 An Assistant Director should receive an email confirming when an investigation has been opened on an incident happening to an employee in their directorate.
