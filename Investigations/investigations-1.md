@@ -1,6 +1,6 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Incident Screen - Confirmation email of opened investigation
+#Opening an Investigation - Notification to health & Safety Team
 
 ##Description
 A system administrator should receive an email confirming when they open an investigation on an incident.
