@@ -35,4 +35,9 @@ The Health & Safety Co-ordinator receives an email containing the following mess
 
 >An investigations questions procedure has been initiated.  You will be notified by email again when this case has been authorised.  
 
+##Concurrent Expected Results
+[Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-2.md)
+
+[Opening an Investigation - Notification to Case Lead Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-5.md)
+
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
