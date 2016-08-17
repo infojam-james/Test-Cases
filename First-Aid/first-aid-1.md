@@ -22,4 +22,4 @@ A user should be able to indicate that a new incident is non work-related.
 ##Expected Result
 A new incident is logged with the status 'Not Work Related'
 
-[Return to Contents](contents.md)
+[Return to Contents](Contents.md)
