@@ -1,3 +1,5 @@
+[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
+
 #Opening an Investigation - Notification to Health & Safety Co-ordinator
 
 ##Description
@@ -38,6 +40,4 @@ The Health & Safety Co-ordinator receives an email containing the following mess
 ##Concurrent Expected Results
 [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-2.md)
 
-[Opening an Investigation - Notification to Case Lead Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-5.md)
-
-[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
+[Opening an Investigation - Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-5.md)
