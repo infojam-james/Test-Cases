@@ -12,3 +12,5 @@
 [Incident Screen - Confirmation email of opened investigation](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-1.md)
 
 [Opening an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-2.md)
+
+[Authorising an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-3.md)
