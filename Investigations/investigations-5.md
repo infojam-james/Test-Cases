@@ -1,3 +1,5 @@
+[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
+
 #Opening an Investigation - Notification to Case Lead
 
 ##Description
@@ -38,5 +40,3 @@ See [Opening an Investigation - Notification to Health & Safety Co-ordinator](ht
 >**YorSafety: Investigation questions initiated**
 
 >An investigations questions procedure has been initiated.  As the individual designated as responsible for this case, you are required to complete these questions.  Please log into YorSafety and visit the 'Investigation' tab in the relevant Incident Dashboard.
-
-[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
