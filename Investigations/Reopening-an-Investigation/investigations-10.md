@@ -28,7 +28,7 @@ A Case Lead should receive an email notification when an Investigation incident 
 5 Click the 'Save Changes' button.
 
 ##Expected Result
-+ The Case Lead receives an email containing the following message:
+The Case Lead receives an email containing the following message:
 
 >**Yorsafety: Investigation questions returned to Case Lead**
 
