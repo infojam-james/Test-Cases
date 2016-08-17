@@ -31,3 +31,5 @@ A Case Lead should be able to confirm that an incident logged as non work-relate
 + A dialogue box confirms the update, and that this action will close the case
 + The Case Status changes to 'Not Work Related (Closed)'
 + The First Aid form becomes available
+
+[Return to Contents](contents.md)
