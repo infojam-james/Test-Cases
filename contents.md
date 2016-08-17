@@ -7,3 +7,6 @@
 [Incident Screen - Confirm incident is non work-related](first-aid-2.md)
 
 [First Aid form - pre-population](first-aid-3.md)
+
+###Investigations
+[Incident Screen - Confirmation email of opened investigation](investigations-1.md)
