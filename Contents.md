@@ -24,5 +24,5 @@
 
 ####Authorising an Investigation
 
-[Authorising an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/investigations-3.md)
+[Authorising an Investigation - Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-Investigation/investigations-3.md)
 
