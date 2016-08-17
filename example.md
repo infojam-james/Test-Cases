@@ -23,3 +23,5 @@ A supported browser is being used.
 
 ##Expected Result
 A page displaying the gmail user’s inbox should load, showing any new message at the top of the page.
+
+[Return to Contents](contents.md)
