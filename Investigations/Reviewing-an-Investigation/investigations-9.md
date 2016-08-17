@@ -31,6 +31,6 @@ A Case Lead should receive an email notification when they have submitted a comp
 
 ##Concurrent Expected Results
 
-See [Submitting an Investigation - Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-8.md)
+See [Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-8.md)
 
-See [Reviewing an Investigation - Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/edit/master/Investigations/Reviewing-an-Investigation/investigations-7.md)
+See [Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/edit/master/Investigations/Reviewing-an-Investigation/investigations-7.md)
