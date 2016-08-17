@@ -47,3 +47,5 @@ When a Confidential First Aid form is generated, the following fields should be 
 
 ##Expected Result
 The First Aid form should be pre-populated with the exact information entered into the incident form.
+
+[Return to Contents](contents.md)
