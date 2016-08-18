@@ -6,15 +6,15 @@
 A Health & Safety Co-ordinator should receive an email confirming when an investigation has been opened on an incident happening to someone in their Service or Team.
 
 ##Preconditions 
-+ The user must already be registered with an email address and password.
-+ The user must have system administrator permissions.
++ The tester must already be registered with an email address and password.
++ The tester must have health & safety system administrator permissions.
++ The incident in question must have a Health & Safety Co-ordinator.
++ The incident in question must not have a Status of 'Delete'.
 + An investigation has not previously been instigated for the incident in question.
-+ The Service/Team recorded in the incident form must have a Health & Safety Co-ordinator associated with them.
 
 ##Assumptions
 + A supported browser is being used.
-+ The Health & Safety Co-ordinator has access to the inbox for the email address they registered onto the system with.
-+ The person the incident happened to is not themself a Health & Safety Co-ordinator.
++ The tester has access to the email inbox for the Health & Safety Co-ordinator of the incident in question.
 
 ##Test Steps:
 
@@ -39,7 +39,7 @@ The Health & Safety Co-ordinator receives an email containing the following mess
 
 ##Concurrent Expected Results
 
-[Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-1.md)
+[Notification to Health & Safety Allocated Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-1.md)
 
 [Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-2.md)
 
