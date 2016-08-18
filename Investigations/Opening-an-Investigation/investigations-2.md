@@ -1,21 +1,20 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Opening an Investigation - Notification to Assistant Director
+#Opening an Investigation - Notification to Accountable Person
 
 ##Description
-An Assistant Director should receive an email confirming when an investigation has been opened on an incident happening to an employee in their directorate.
+A user should receive an email informing them when an investigation has been opened on an incident for which they are the Accountable Person.
 
 ##Preconditions 
-+ The user must already be registered with an email address and password.
-+ The user must have system administrator permissions.
++ The tester must already be registered with an email address and password.
++ The tester must have health & safety system administrator permissions.
++ The person the incident happened to must have an Accountable Person (e.g. Assistant Director).
++ The incident in question must not have a Status of 'Delete'.
 + An investigation has not previously been instigated for the incident in question.
-+ The person the incident happened to must be an employee or contractor.
-+ The person the incident happened to must be linked to an Assistant Director in their Profile.
 
 ##Assumptions
 + A supported browser is being used.
-+ The Assistant Director has access to the inbox for the email address they registered onto the system with.
-+ The person the incident happened to is not themself an Assistant Director.
++ The tester has access to the email inbox for the Accountable Person of the incident in question.
 
 ##Test Steps:
 
@@ -32,7 +31,7 @@ An Assistant Director should receive an email confirming when an investigation h
 6 Click the 'Save changes' button.
 
 ##Expected Result
-The Assistant Director of the person the incident happened to receives an email containing the following message:
+The Accountable Person of the person the incident happened to receives an email containing the following message:
 
 >**YorSafety: Investigation questions initiated**
 
@@ -40,7 +39,7 @@ The Assistant Director of the person the incident happened to receives an email 
 
 ##Concurrent Expected Results
 
-See [Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-1.md)
+See [Notification to Health & Safety Allocated Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-1.md)
 
 See [Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-4.md)
 
