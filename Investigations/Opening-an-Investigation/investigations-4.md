@@ -35,7 +35,7 @@ The Health & Safety Co-ordinator receives an email containing the following mess
 
 >**YorSafety: Investigation questions initiated**
 
->An investigations questions procedure has been initiated.  You will be notified by email again when this case has been authorised.  
+>An investigation has been initiated. You can monitor the progress of this incident by logging in to [Yorsafety](https://www.yorsafety.org.uk).  You will be notified by email again when this case has been authorised.  
 
 ##Concurrent Expected Results
 
