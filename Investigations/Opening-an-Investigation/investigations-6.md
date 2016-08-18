@@ -8,6 +8,7 @@ A user should receive an email confirming when an investigation is opened on an 
 ##Preconditions 
 + The tester must already be registered with an email address and password.
 + The tester must have health & safety system administrator permissions.
++ An email address must have been entered into the 'Email' field on the incident form.
 + The incident in question must not have a Status of 'Delete'.
 + An investigation has not previously been instigated for the incident in question.
 
@@ -34,7 +35,7 @@ The user receives an email containing the following message:
 
 >**YorSafety: Investigation questions initiated**
 
->You have changed the status to 'Investigation (Open)'.  This has initiated the Investigations questions, and the Case Lead has been notified.
+>Further investigation is being carried out on your incident.  You will be able to review the details of the incident once the case has been closed.  If you required any further information in the meantime, contact your Line Manager or the Health & Safety Team.
 
 ##Concurrent Expected Results
 
