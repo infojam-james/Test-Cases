@@ -35,7 +35,7 @@ The Accountable Person of the person the incident happened to receives an email 
 
 >**YorSafety: Investigation questions initiated**
 
->An investigations questions procedure has been initiated.  You will be notified by email again when this case has been authorised.
+>An investigations questions procedure has been initiated.  You will be notified by email again when this case requires review and authorisation.
 
 ##Concurrent Expected Results
 
