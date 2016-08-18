@@ -35,7 +35,7 @@ The Accountable Person of the person the incident happened to receives an email 
 
 >**YorSafety: Investigation questions initiated**
 
->An investigations questions procedure has been initiated.  You will be notified by email again when this case requires review and authorisation.  You can monitor the progress of this incident by logging in to [Yorsafety](www.yorsafety.org.uk).
+>An investigations questions procedure has been initiated.  You will be notified by email again when this case requires review and authorisation.  You can monitor the progress of this incident by logging in to [Yorsafety](https://www.yorsafety.org.uk).
 
 ##Concurrent Expected Results
 
