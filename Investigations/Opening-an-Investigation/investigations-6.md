@@ -6,13 +6,14 @@
 A user should receive an email confirming when an investigation is opened on an incident that happened to them.
 
 ##Preconditions 
-+ The user must already be registered with an email address and password.
-+ The user must have system administrator permissions.
++ The tester must already be registered with an email address and password.
++ The tester must have health & safety system administrator permissions.
++ The incident in question must not have a Status of 'Delete'.
 + An investigation has not previously been instigated for the incident in question.
 
 ##Assumptions
 + A supported browser is being used.
-+ The user has access to the inbox for the email address they registered onto the system with.
++ The tester has access to the email inbox for the person that the incident in question happened to.
 
 ##Test Steps:
 
@@ -37,7 +38,7 @@ The user receives an email containing the following message:
 
 ##Concurrent Expected Results
 
-See [Notification to Health & Safety Team](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-1.md)
+See [Notification to Health & Safety Allocated Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-1.md)
 
 See [Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-2.md)
 
