@@ -3,7 +3,7 @@
 #Opening an Investigation - Notification to Health & Safety Co-ordinator
 
 ##Description
-A Health & Safety Co-ordinator should receive an email confirming when an investigation has been opened on an incident happening to someone in their Service or Team.
+A user should receive an email informing them when an investigation has been opened on an incident for which they are the Health & Safety Co-ordinator.
 
 ##Preconditions 
 + The tester must already be registered with an email address and password.
