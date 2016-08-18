@@ -35,7 +35,7 @@ The Case Lead receives an email containing the following message:
 
 >**YorSafety: Investigation questions initiated**
 
->An investigation has been initiated.  As the individual designated as responsible for this case, you are required to complete further questions.  Please log into YorSafety and visit the 'Investigation' tab in the relevant Incident Dashboard.
+>An investigation has been initiated.  As the individual designated as responsible for this case, you are required to complete further questions.  Please log into [Yorsafety](https://www.yorsafety.org.uk) and visit the 'Investigation' tab in the relevant Incident Dashboard.
 
 ##Concurrent Expected Results
 
