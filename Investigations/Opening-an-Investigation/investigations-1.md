@@ -3,7 +3,7 @@
 #Opening an Investigation - Notification to Health & Safety Allocated Person
 
 ##Description
-A user should receive an email confirming when an investigation is opened on an incident they are the health & safety allocated person for.
+A user should receive an email confirming when an investigation is opened on an incident for which they are the health & safety allocated person.
 
 ##Preconditions 
 + The tester must already be registered with an email address and password.
