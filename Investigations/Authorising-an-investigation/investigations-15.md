@@ -11,6 +11,7 @@ A user should receive an email informing them when an investigation has been aut
 
 ##Assumptions
 + A supported browser is being used.
++ The tester has access to the email inbox of the Case Lead.
 
 ##Test Steps:
 
