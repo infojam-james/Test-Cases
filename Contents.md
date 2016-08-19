@@ -38,5 +38,5 @@
 
 ####Authorising an Investigation
 
-[Notification to Assistant Director](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-Investigation/investigations-3.md)
+[Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-Investigation/investigations-3.md)
 
