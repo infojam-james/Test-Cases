@@ -1,6 +1,6 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Reopening an Investigation - Notification to Case Lead
+#Re-opening an Investigation - Notification to Case Lead
 
 ##Description
 A Case Lead should receive an email notification when they are required to make amendments to an investigation that has been previously submitted.
