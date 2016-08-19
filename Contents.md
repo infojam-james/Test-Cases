@@ -52,6 +52,6 @@
 
 [Notification to Health & Safety Allocated Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-16.md)
 
-[Notification to Health & Safety Co-ordinator]
+[Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-17.md)
 
-[Notification to Injured Person]
+[Notification to Injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-18.md)
