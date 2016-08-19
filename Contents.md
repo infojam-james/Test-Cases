@@ -48,9 +48,9 @@
 
 [Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-14.md)
 
-[Notification to Case Lead]
+[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-15.md)
 
-[Notification to Health & Safety Allocated Person]
+[Notification to Health & Safety Allocated Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-16.md)
 
 [Notification to Health & Safety Co-ordinator]
 
