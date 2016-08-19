@@ -38,6 +38,4 @@ The Accountable Person of the person the incident happened to receives an email 
 
 ##Concurrent Expected Results
 
-See [Notification to Health & Safety Co-ordinator]
-
-See [Notification to Case Lead]
+See [Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-11.md)
