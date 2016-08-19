@@ -32,4 +32,4 @@ The Case Lead receives an email containing the following message:
 
 >**Yorsafety: Investigation questions returned to Case Lead**
 
->This investigation has been reviewed by the Health & Safety Team, and you are required to amend some of the details you previously entered.  Please log into [Yorsafety](https://www.yorsafety.org.uk) and visit the 'Investigation' tab in the relevant Incident Dashboard.
+>Your investigation has been reviewed by the Health & Safety Team, and further information is required. Please log into [Yorsafety](https://www.yorsafety.org.uk) and visit the 'Investigation' tab within the Incident Dashboard. Comments from the Allocated H&S can be found within the investigation itself and/or in the Action comments. Once complete please resubmit using the ‘Complete Investigation’ button.
