@@ -22,6 +22,6 @@ A user should receive an email informing them when an investigation has been aut
 ##Expected Result
 The Case Lead of the incident receives an email containing the following message:
 
->**YorSafety: Investigation finalised**
+>**YorSafety: Investigation authorised**
 
 >This investigation has now been authorised by the Accountable Person.
