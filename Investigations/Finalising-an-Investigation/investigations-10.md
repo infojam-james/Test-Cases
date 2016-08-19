@@ -34,7 +34,9 @@ The Accountable Person of the person the incident happened to receives an email 
 
 >**YorSafety: Investigation finalised**
 
->This investigation has been finalised and now requires authorisation.  Please log in to [Yorsafety](https://www.yorsafety.org.uk), where you will find the case on your dashboard.
+>This investigation has been finalised and now requires your authorisation. Please log in to [Yorsafety](https://www.yorsafety.org.uk), where you will find the case on your dashboard. 
+
+>It is essential that, in addition to the investigation itself, you review the Actions and add additional ones if necessary.  You can use the comments box within each action to alert the Case Lead.  To authorise the incident log into [Yorsafety](https://www.yorsafety.org.uk) and click the 'Authorise' button in the 'Investigations' section.   Once authorised the Health & Safety Team will close the incident but the Actions will stay live until completed.
 
 ##Concurrent Expected Results
 
