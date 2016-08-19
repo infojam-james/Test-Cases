@@ -12,6 +12,7 @@ The Case Status of an incident should change when a completed Investigation form
 
 ##Assumptions
 + A supported browser is being used.
++ The test has access to the user account of the Accountable Person for the incident in question.
 
 ##Test Steps:
 
