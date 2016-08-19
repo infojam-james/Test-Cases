@@ -28,7 +28,7 @@ The health & safety allocated person receives an email containing the following 
 
 >**YorSafety: Investigation questions completed - awaiting review**
 
->This investigation has been completed by the Case Lead.  Please review and either finalise or return to the Case Lead to make amendments.
+>This investigation has been completed by the Case Lead. Please review and either finalise (which will alert the AD to authorise) or return to the Case Lead to make amendments (remembering to re-open the investigation)
 
 ##Concurrent Expected Results
 
