@@ -47,3 +47,11 @@
 [Authorise Button not visible](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-13.md)
 
 [Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-14.md)
+
+[Notification to Case Lead]
+
+[Notification to Health & Safety Allocated Person]
+
+[Notification to Health & Safety Co-ordinator]
+
+[Notification to Injured Person]
