@@ -38,6 +38,8 @@
 
 [Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-10.md)
 
+[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-11.md)
+
 ####Authorising an Investigation
 
 [Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-Investigation/investigations-3.md)
