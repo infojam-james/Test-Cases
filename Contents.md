@@ -42,5 +42,9 @@
 
 ####Authorising an Investigation
 
-[Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-Investigation/investigations-3.md)
+[Authorise Button for Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-12.md)
+
+[Authorise Button not visible](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-13.md)
+
+[Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-Investigation/investigations-14.md)
 
