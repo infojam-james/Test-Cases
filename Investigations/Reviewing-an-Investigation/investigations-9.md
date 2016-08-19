@@ -28,7 +28,7 @@ The Case Lead receives an email containing the following message:
 
 >**YorSafety: Investigation questions completed - awaiting review**
 
->You have completed all mandatory investigation questions.  The case is now under review with the Health & Safety Team.  You will be notified by email if you are required to amend any of the details you have entered.  
+>Thank you for completing all the mandatory investigation questions. The case is now under review with the Health & Safety Team. You will be notified by email if you are required to amend any of the details you have entered. If no amendments are required the Senior Accountable Person (e.g. AD/Head Teacher) will be contacted to authorise the investigation and associated action plan. 
 
 ##Concurrent Expected Results
 
