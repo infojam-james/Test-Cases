@@ -32,4 +32,4 @@ A user should be able to indicate that a new incident is non work-related.
 ##Expected Results
 
 + A new incident is logged with the status 'Not Work Related'
-+ *No* email is sent to the Health & Safety Team mailbox
++ An email is *not* sent to the Health & Safety Team mailbox
