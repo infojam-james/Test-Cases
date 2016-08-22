@@ -8,7 +8,7 @@ A Case Lead should be able to confirm that an incident recorded as non work-rela
 ##Preconditions
 + The tester must already be registered with an email address and password.
 + The tester must be the Case Lead of the incident in question.
-+ The incident in question must have the Case Status 'Not Work Related'.
++ The Case Status of the incident in question must be 'Not Work Related'.
 
 ##Assumptions
 + A supported browser is being used.
