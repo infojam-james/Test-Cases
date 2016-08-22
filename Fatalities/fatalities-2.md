@@ -24,7 +24,7 @@ The Health & Safety team should receive a notification when a work-related incid
 
 5 Complete all other mandatory questions in Section 4
 
-6 From the 'Was the incident work related?' question (in 'Section 5: Further Info'), select 'No'
+6 From the 'Was the incident work related?' question (in 'Section 5: Further Info'), select 'Yes'
 
 7 Complete all subsequent mandatory questions in Section 5
 
@@ -34,6 +34,6 @@ The Health & Safety team should receive a notification when a work-related incid
 
 The Health & Safety Team mailbox receives an email containing the following message:
 
->**YorSafety: Fatality reported (non work-related)**
+>**YorSafety: Fatality reported (work-related)**
 
 >
