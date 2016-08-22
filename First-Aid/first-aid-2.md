@@ -28,4 +28,3 @@ A Case Lead should be able to confirm that an incident recorded as non work-rela
 ##Expected Results
 + A dialogue box confirms the update, and that this action will close the case
 + The Case Status changes to 'Not Work Related (Closed)'
-+ The Confidential First Aid form becomes available
