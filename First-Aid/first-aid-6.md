@@ -23,7 +23,7 @@ The user should be able to undo unsaved changes they make to the First Aid form
 
 3 Click the 'Undo' button *(this will prompt a pop-up box asking for confirmation)*
 
-4 Click the 'Confirm' button in the confirmation box
+4 Click the 'Confirm undo' button in the confirmation box
 
 ##Expected Results
 + The pop-up confirmation box should disappear
