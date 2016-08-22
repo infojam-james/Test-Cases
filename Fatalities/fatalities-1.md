@@ -3,7 +3,7 @@
 #Fatalities - Submitting a non work-related fatality
 
 ##Description
-The Health & Safety team should receive a notification when a non work-related incident has resulted in a fatality.
+The Health & Safety team should receive a notification when a non work-related incident resulting in a fatality is recorded.
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
