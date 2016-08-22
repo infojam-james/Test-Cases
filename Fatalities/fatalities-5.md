@@ -38,5 +38,5 @@ AND
 
 + [Making the 'Fatality Action Plan' available](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-3.md)
 + [Making the 'Fatality Site Checklist' available](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-4.md)
-+ [Making the 'Health & Safety Manager's Action Card' available]
++ [Making the 'Health & Safety Manager's Action Card' available](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-6.md)
 + [Making the 'Educational Visits Critical Incident Checklist' available]
