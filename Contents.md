@@ -2,7 +2,7 @@
 ## Contents
 
 ###Non work-related Incidents
-[Submitting non work-related incident](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-1.md)
+[Submitting a non work-related incident](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-1.md)
 
 [Submitting a non work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
 
