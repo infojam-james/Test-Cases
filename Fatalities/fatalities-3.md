@@ -27,11 +27,15 @@ The 'Fatality Action Plan' should become available to health & safety system adm
 + A new browser window should open containing the Fatality Action Plan
 
 ##Concurrent Expected Results
+EITHER
+
 + [Health & Safety Team notification of a non work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
 
 OR
 
 + [Health & Safety Team notification of a work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-2.md)
+
+AND
 
 + [Making the 'Fatality Site Checklist' available](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-4.md)
 + [Making the 'Fatal Accident Response Team Meeting Record' available]
