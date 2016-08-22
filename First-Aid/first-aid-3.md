@@ -32,7 +32,7 @@ When a Confidential First Aid form is generated, the following fields should be 
 5 Ensure the text entered matches that entered into the equivalent field from the Incident Report Form:
 
 |First Aid Form field|Equivalent Incident Report Form field
-|--|:--|
+|--------------------|:-------------------------------------|
 |Name of Casualty|Forename & Surname|
 |Job Title|Job Title|
 |Incident Location|Incident Address|
