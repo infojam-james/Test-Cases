@@ -41,7 +41,7 @@ When a Confidential First Aid form is generated, the following fields should be 
 |Pupil|*Insert tick if* Are you/Are they *is* **'Pupil'**|
 |Member of public|*Insert tick if* Are you/Are they *is* **'Member of Public'**|
 |Customer/Resident|*Insert tick if* Are you/Are they *is either* **'Customer'** *or* **'Resident'**|
-|Other (specify)|*Insert tick if* Are you/Are they (if all previous blank|
+|Other (specify)|Are you/Are they *if* Are you/Are they *is not* **'Employee','Pupil','Member of Public','Customer'** *or* **'Resident'**|
 |Incident date|Date of Incident|
 |Incident time|Time of Treatment?|
 |Nature of injury|Injury Detail / Treatment|
