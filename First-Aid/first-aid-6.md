@@ -21,7 +21,7 @@ The user should be able to undo unsaved changes they make to the First Aid form
 
 2 Enter new content in any field(s)
 
-3 Click the 'Undo' button *(this will prompt a pop-up box asking for confirmation)*
+3 Click the 'Undo' button *(this will prompt a pop-up box asking 'Are you sure you wish to undo?  All unsaved changes will be lost.')*
 
 4 Click the 'Confirm undo' button in the confirmation box
 
