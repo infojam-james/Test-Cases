@@ -30,9 +30,10 @@ The Health & Safety team should receive a notification when a non work-related i
 
 8 Click the 'Submit' button
 
-##Expected Result
+##Expected Results
 
-The Health & Safety Team mailbox receives an email containing the following message:
++ A new incident is logged with the status 'Not Work Related'
++ The Health & Safety Team mailbox receives an email containing the following message:
 
 >**YorSafety: Fatality reported (non work-related)**
 
