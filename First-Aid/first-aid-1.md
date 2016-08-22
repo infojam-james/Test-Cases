@@ -1,6 +1,6 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Submitting a non work-related incident (non fatality)
+#Submitting a non work-related incident (non-fatality)
 
 ##Description
 A user should be able to indicate that a new incident is non work-related.
