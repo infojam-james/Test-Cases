@@ -18,7 +18,7 @@
 
 [Making the 'Health & Safety Manager's Action Card' available](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-6.md)
 
-[Making the 'Educational Visits Critical Incident Checklist' available]
+[Making the 'Educational Visits Critical Incident Checklist' available](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-7.md)
 
 
 ###First Aid
