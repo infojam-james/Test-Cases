@@ -21,7 +21,7 @@ The user should be able to cancel a save when making changes to the First Aid fo
 
 2 Enter new content in any field(s)
 
-3 Click the 'Save' button *(this will prompt a pop-up box asking for confirmation)*
+3 Click the 'Save' button *(this will prompt a pop-up box asking 'Are you sure you wish to save?')*
 
 4 Click the 'Cancel' button in the confirmation box *(this will prompt the pop-up confirmation box to disappear)*
 
