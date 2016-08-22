@@ -20,15 +20,15 @@
 
 [Making the 'Educational Visits Critical Incident Checklist' available](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-7.md)
 
-[Saving changes to the 'Fatality Action Plan']
+[Saving changes to the 'Fatality Action Plan'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-8.md)
 
-[Saving changes to the 'Fatality Site Checklist']
+[Saving changes to the 'Fatality Site Checklist'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-9.md)
 
-[Saving changes to the 'FFatal Accident Response Team Meeting Record']
+[Saving changes to the 'FFatal Accident Response Team Meeting Record'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-10.md)
 
-[Saving changes to the 'Health & Safety Manager's Action Card']
+[Saving changes to the 'Health & Safety Manager's Action Card'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-11.md)
 
-[Saving changes to the 'Educational Visits Critical Incident Checklist']
+[Saving changes to the 'Educational Visits Critical Incident Checklist'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-12.md)
 
 ###First Aid
 [Pre-populating the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-3.md)
