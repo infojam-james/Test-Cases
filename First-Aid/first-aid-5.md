@@ -26,4 +26,5 @@ The user should be able to automatically update the First Aid form if changes ar
 4 Click the 'OK' button in the confirmation box
 
 ##Expected Results
++ The pop-up confirmation box should disappear
 + The First Aid form should be populated with content from the relevant fields of the incident form (see [Pre-populating the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-3.md) 
