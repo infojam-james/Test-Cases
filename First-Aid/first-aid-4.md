@@ -7,7 +7,7 @@ The user should be able to save changes they make to the First Aid form
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
-+ The tester must have system administrator permissions.
++ The tester must have health & safety system administrator permissions.
 + The categorisation for the incident prompted the 'Was First Aid administered?' question.
 + The 'Was First Aid administered?' question for the incident was answered 'Yes'.
 
