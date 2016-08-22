@@ -24,7 +24,7 @@
 
 [Saving changes to the 'Fatality Site Checklist'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-9.md)
 
-[Saving changes to the 'FFatal Accident Response Team Meeting Record'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-10.md)
+[Saving changes to the 'Fatal Accident Response Team Meeting Record'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-10.md)
 
 [Saving changes to the 'Health & Safety Manager's Action Card'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-11.md)
 
