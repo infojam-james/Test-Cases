@@ -59,3 +59,5 @@
 ###Fatalities
 
 ####Registering a Fatality
+
+[Submitting a non work-related fatality]
