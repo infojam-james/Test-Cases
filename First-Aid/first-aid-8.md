@@ -21,7 +21,7 @@ The user should be able to cancel an update when making changes to the First Aid
 
 2 Delete all pre-populated content from the form
 
-3 Click the 'Update from incident form' button *(this will prompt a pop-up box asking for confirmation)*
+3 Click the 'Update from incident form' button *(this will prompt a pop-up box asking 'Are you sure you wish to update?  All current content will be overwritten.')*
 
 4 Click the 'Cancel' button in the confirmation box *(this will prompt the pop-up confirmation box to disappear)*
 
