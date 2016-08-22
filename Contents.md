@@ -6,7 +6,7 @@
 
 [Submitting a non work-related incident (fatality)](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
 
-[Submitting a work-related incident (fatality)](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-2.md)
+[Health & Safety Team notification of a work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-2.md)
 
 [Confirming a non work-related incident](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-2.md)
 
