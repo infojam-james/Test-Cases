@@ -1,21 +1,17 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Incident Screen - Confirm incident is non work-related
+#Confirming an incident is non work-related
 
 ##Description
-A Case Lead should be able to confirm that an incident logged as non work-related is non work-related.
+A Case Lead should be able to confirm that an incident recorded as non work-related is indeed non work-related.
 
 ##Preconditions
-+ The user must already be registered with an email address and password.
-+ The incident in question must be newly recorded.
-+ The incident in question must have the case Status 'Not Work Related'.
-+ The incident in question must not involve a fatality.
-+ The user must be the Case Lead of the incident in question.
++ The tester must already be registered with an email address and password.
++ The tester must be the Case Lead of the incident in question.
++ The incident in question must have the Case Status 'Not Work Related'.
 
 ##Assumptions
 + A supported browser is being used.
-+ The user has received a notification alerting them to the newly-recorded incident, and prompting them to log in to review it.
-+ The second question in the 'My Tasks' box of the incident in question reads, "Confirm incident is not work related".
 
 ##Test Steps:
 
