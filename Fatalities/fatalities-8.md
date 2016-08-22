@@ -12,7 +12,7 @@ The user should be able to save changes they make to the 'Fatality Action Plan'
 
 ##Assumptions
 + A supported browser is being used.
-+ + The Fatality Action Plan for the incident in question has been made available.
++ The Fatality Action Plan for the incident in question has been made available.
 + The Fatality Action Plan for the incident in question has already been opened.
 
 ##Test Steps:
