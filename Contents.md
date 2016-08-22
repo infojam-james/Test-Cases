@@ -55,3 +55,7 @@
 [Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-17.md)
 
 [Notification to Injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-18.md)
+
+###Fatalities
+
+####Registering a Fatality
