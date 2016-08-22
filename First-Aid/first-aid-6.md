@@ -21,15 +21,10 @@ The user should be able to undo unsaved changes they make to the First Aid form
 
 2 Enter new content in any field(s)
 
-3 Click the 'Save' button
+3 Click the 'Undo' button *(this will prompt a pop-up box asking for confirmation)*
 
-4 Close the browser tab containing the First Aid form
-
-5 Navigate to the incident in question
-
-6 Click the 'Options' button
-
-7 Select 'Open First Aid form'
+4 Click the 'Confirm' button in the confirmation box
 
 ##Expected Results
-+ The newly-entered content should be displayed in the First Aid form
++ The pop-up confirmation box should disappear
++ All changes made since the previous save should be undone
