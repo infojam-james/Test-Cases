@@ -23,7 +23,7 @@ The user should be able to save changes they make to the First Aid form
 
 3 Click the 'Save' button *(this will prompt a pop-up box asking for confirmation)*
 
-4 Click the 'Confirm' button in the confirmation box
+4 Click the 'Confirm save' button in the confirmation box
 
 5 Close the browser tab containing the First Aid form
 
