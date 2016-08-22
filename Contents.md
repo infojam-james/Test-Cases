@@ -6,7 +6,7 @@
 
 [Submitting a non work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
 
-[Confirm incident is non work-related](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-2.md)
+[Confirming an incident is non work-related](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-2.md)
 
 [First Aid form - pre-population](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-3.md)
 
