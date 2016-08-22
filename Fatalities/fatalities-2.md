@@ -1,6 +1,6 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Fatalities - Submitting a work-related fatality
+#Submitting a work-related fatality
 
 ##Description
 The Health & Safety team should receive a notification when a work-related incident has resulted in a fatality.
