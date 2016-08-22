@@ -21,7 +21,7 @@ The user should be able to automatically update the First Aid form if changes ar
 
 2 Delete all pre-populated content from the form
 
-3 Click the 'Update from incident form' button *(this will prompt a pop-up box asking for confirmation)*
+3 Click the 'Update from incident form' button *(this will prompt a pop-up box asking 'Are you sure you wish to update?  All current content will be overwritten.')*
 
 4 Click the 'Confirm update' button in the confirmation box
 
