@@ -21,15 +21,15 @@ When a Confidential First Aid form is generated, the following fields should be 
 
 2 Click the 'Options' button
 
-3 Select 'Print Incident Only' (this will open a new browser window containing the Incident Report Form)
+3 Select 'Print First Aid Form' *(this will open a new browser window containing the First Aid Form)*
 
 4 Click the 'Options' button
 
-5 Select 'Print First Aid Form'
+5 Select 'Print Incident Only' *(this will open a new browser window containing the Incident Report Form)*
 
-6 Select the new browser window containing the First Aid form
+6 Select the browser window containing the First Aid form
 
-5 Ensure the text entered matches that entered into the equivalent field from the Incident Report Form:
+7 Ensure the text entered matches that entered into the equivalent field from the Incident Report Form:
 
 |First Aid Form field|Equivalent Incident Report Form field|Incident Report Form section|
 |--------------------|:------------------------------------|:---------------------------|
