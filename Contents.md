@@ -61,3 +61,5 @@
 ####Registering a Fatality
 
 [Submitting a non work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
+
+[Submitting a work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-2.md)
