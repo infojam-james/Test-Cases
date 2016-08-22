@@ -35,11 +35,15 @@
 
 [Saving changes to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-4.md)
 
+[Cancelling a save to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-7.md)
+
 [Updating the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-5.md)
+
+[Cancelling an update to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-8.md)
 
 [Undoing changes to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-6.md)
 
-[Undoing a save to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-7.md)
+[Cancelling an undo to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-8.md)
 
 ###Investigations
 
