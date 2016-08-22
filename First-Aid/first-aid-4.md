@@ -21,7 +21,7 @@ The user should be able to save changes they make to the First Aid form
 
 2 Enter new content in any field(s)
 
-3 Click the 'Save' button *(this will prompt a pop-up box asking for confirmation)*
+3 Click the 'Save' button *(this will prompt a pop-up box asking 'Are you sure you wish to save?')*
 
 4 Click the 'Confirm save' button in the confirmation box
 
