@@ -3,7 +3,7 @@
 #Saving changes to the 'Fatality Action Plan'
 
 ##Description
-The 'Fatality Action Plan' should become available to health & safety system administrators when an incident concerning a fatality is recorded.
+The user should be able to save changes they make to the 'Fatality Action Plan'
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
@@ -12,6 +12,7 @@ The 'Fatality Action Plan' should become available to health & safety system adm
 
 ##Assumptions
 + A supported browser is being used.
++ + The Fatality Action Plan for the incident in question has been made available.
 + The Fatality Action Plan for the incident in question has already been opened.
 
 ##Test Steps:
