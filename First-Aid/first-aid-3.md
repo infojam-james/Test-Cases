@@ -50,5 +50,6 @@ When a Confidential First Aid form is generated, the following fields should be 
 |Time of treatment: (24 hour clock)|Time of Treatment?|5: Further Info|
 |Name of first aider or approved person:|Name of First Aider?|5: Further Info|
 
-##Expected Result
-The First Aid form should be pre-populated with the exact information entered into the incident form.
+##Expected Results
++ The First Aid form should be pre-populated with the exact information entered into the incident form.
++ It should be possible to edit the information pre-populating the fields in the First Aid form.
