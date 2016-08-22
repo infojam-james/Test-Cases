@@ -29,9 +29,9 @@ When a Confidential First Aid form is generated, the following fields should be 
 
 6 Select the browser window containing the First Aid form
 
-7 Ensure the text entered matches that entered into the equivalent field from the Incident Report Form:
+7 Compare the text in the fields of the two forms in accordance with the below table:
 
-|First Aid Form field|Equivalent Incident Report Form field|Incident Report Form section|
+|First Aid Form field|Matching Incident Report Form field|Incident Report Form section|
 |--------------------|:------------------------------------|:---------------------------|
 |Name of Casualty|Forename *&* Surname|2: Their Details|
 |Job Title|Job Title|2: Their Details|
