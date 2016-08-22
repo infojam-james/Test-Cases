@@ -1,12 +1,17 @@
 # Test Cases
 ## Contents
 
-###First Aid/Non work-related Incidents
-[Incident Logging - Submit non work-related incident](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-1.md)
+###Non work-related Incidents
+[Submitting non work-related incident](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-1.md)
 
-[Incident Screen - Confirm incident is non work-related](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-2.md)
+[Submitting a non work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
+
+[Confirm incident is non work-related](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-2.md)
 
 [First Aid form - pre-population](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-3.md)
+
+[Submitting a work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-2.md)
+
 
 ###Investigations
 
@@ -55,11 +60,3 @@
 [Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-17.md)
 
 [Notification to Injured Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-18.md)
-
-###Fatalities
-
-####Registering a Fatality
-
-[Submitting a non work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
-
-[Submitting a work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-2.md)
