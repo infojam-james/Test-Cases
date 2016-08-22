@@ -10,7 +10,7 @@
 
 [Confirming a non work-related incident](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-2.md)
 
-[Making the 'Fatality Action Plan' available]
+[Making the 'Fatality Action Plan' available](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-3.md)
 
 [Making the 'Fatality Site Checklist' available]
 
