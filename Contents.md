@@ -1,12 +1,12 @@
 # Test Cases
 ## Contents
 
-###Non work-related Incidents
+###Non work-related Incidents and Fatalities
 [Submitting a non work-related incident (non-fatality)](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-1.md)
 
-[Submitting a non work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
+[Submitting a non work-related incident (fatality)](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-1.md)
 
-[Submitting a work-related fatality](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-2.md)
+[Submitting a work-related incident (fatality)](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-2.md)
 
 [Confirming a non work-related incident](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-2.md)
 
