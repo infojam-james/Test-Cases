@@ -21,7 +21,7 @@ The user should be able to cancel an update when making changes to the First Aid
 
 2 Enter new content in any field(s)
 
-3 Click the 'Undo' button *(this will prompt a pop-up box asking for confirmation)*
+3 Click the 'Undo' button *(this will prompt a pop-up box asking 'Are you sure you wish to undo?  All unsaved changes will be lost.')*
 
 4 Click the 'Cancel' button in the confirmation box *(this will prompt the pop-up confirmation box to disappear)*
 
