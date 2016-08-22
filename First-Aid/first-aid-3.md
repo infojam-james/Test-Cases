@@ -37,12 +37,15 @@ When a Confidential First Aid form is generated, the following fields should be 
 |Job Title|Job Title|
 |Incident Location|Incident Address|
 |Age|Age|
-|Did the incident occur to: (multiple choice)|Are you/Are they|
-|Other (specify)|Are you/Are they (if all previous blank|
+|Employee|*Insert tick if* Are you/Are they *is* **'Employee'**|
+|Pupil|*Insert tick if* Are you/Are they *is* **'Pupil'**|
+|Member of public|*Insert tick if* Are you/Are they *is* **'Member of Public'**|
+|Customer/Resident|*Insert tick if* Are you/Are they *is either* **'Customer'** *or* **'Resident'**|
+|Other (specify)|*Insert tick if* Are you/Are they (if all previous blank|
 |Incident date|Date of Incident|
-|Incident time|Injury Detail / Treatment|
-|Nature of injury|Advice given / received|
-|Treatment administered/advice given|
+|Incident time|Time of Treatment?|
+|Nature of injury|Injury Detail / Treatment|
+|Treatment administered/advice given|Advice given / received|
 |Referred for medical attention (Yes/No)|Were they referred for medical attention?|
 |Time of treatment: (24 hour clock)|Time of Treatment?|
 |Name of first aider or approved person:|Name of First Aider?|
