@@ -1,9 +1,9 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#Undoing a save to the First Aid form
+#Cancelling a save to the First Aid form
 
 ##Description
-The user should be able to undo a save when making changes to the First Aid form
+The user should be able to cancel a save when making changes to the First Aid form
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
