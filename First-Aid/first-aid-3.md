@@ -1,19 +1,19 @@
 [Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
 
-#First Aid form - pre-population
+#Pre-populating the First Aid form
 
 ##Description
-When a Confidential First Aid form is generated, the following fields should be pre-populated with information previously entered at the time of the incident logging.
+When a Confidential First Aid form is generated, the following fields should be pre-populated with information previously entered at the time of the incident's recording.
 
 ##Preconditions
-+ The user must already be registered with an email address and password.
-+ The user must have system administrator permissions.
-+ All mandatory questions were completed when recording the incident in question.
++ The tester must already be registered with an email address and password.
++ The tester must have system administrator permissions.
 + The categorisation for the incident prompted the 'Was First Aid administered?' question.
-+ The 'Was First Aid administered?' question for the incident was responded 'Yes'.
++ The 'Was First Aid administered?' question for the incident was answered 'Yes'.
 
 ##Assumptions
 + A supported browser is being used.
++ All mandatory questions were completed when recording the incident in question.
 
 ##Test Steps:
 
