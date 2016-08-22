@@ -43,7 +43,7 @@
 
 [Undoing changes to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-6.md)
 
-[Cancelling an undo to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-8.md)
+[Cancelling an undo to the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-9.md)
 
 ###Investigations
 
