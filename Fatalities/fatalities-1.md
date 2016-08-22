@@ -34,6 +34,6 @@ The Health & Safety team should receive a notification when a non work-related i
 
 The Health & Safety Team mailbox receives an email containing the following message:
 
->**YorSafety: Fatality reported**
+>**YorSafety: Fatality reported (non work-related)**
 
 >
