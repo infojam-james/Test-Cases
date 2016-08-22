@@ -36,4 +36,9 @@ The Health & Safety Team mailbox receives an email containing the following mess
 
 >**YorSafety: Fatality reported (work-related)**
 
->
+##Concurrent Expected Results
++ [Making the 'Fatality Action Plan' available]
++ [Making the 'Fatality Site Checklist' available]
++ [Making the 'Fatal Accident Response Team Meeting Record' available]
++ [Making the 'Health & Safety Manager's Action Card' available]
++ [Making the 'Educational Visits Critical Incident Checklist' available]
