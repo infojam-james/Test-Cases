@@ -21,7 +21,7 @@ When a Confidential First Aid form is generated, the following fields should be 
 
 2 Click the 'Options' button
 
-3 Select 'Print First Aid Form' *(this will open a new browser window containing the First Aid Form)*
+3 Select 'Open First Aid Form' *(this will open a new browser window containing the First Aid Form)*
 
 4 Click the 'Options' button
 
