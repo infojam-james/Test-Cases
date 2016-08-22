@@ -23,7 +23,7 @@ The user should be able to automatically update the First Aid form if changes ar
 
 3 Click the 'Update from incident form' button *(this will prompt a pop-up box asking for confirmation)*
 
-4 Click the 'OK' button in the confirmation box
+4 Click the 'Confirm update' button in the confirmation box
 
 ##Expected Results
 + The pop-up confirmation box should disappear
