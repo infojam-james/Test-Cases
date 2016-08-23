@@ -39,4 +39,4 @@ The Case Lead receives an email containing the following message:
 
 ##Concurrent Expected Results
 
-See [https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-10.md](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-10.md)
+See [Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-10.md)
