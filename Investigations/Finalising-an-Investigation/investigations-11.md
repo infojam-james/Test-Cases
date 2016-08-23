@@ -8,8 +8,8 @@ A user should receive an email informing them when an investigation has been fin
 ##Preconditions 
 + The tester must already be registered with an email address and password.
 + The tester must have health & safety system administrator permissions.
-+ The incident in question must have a Case Lead.
-+ The Case Status for the incident in question must be 'Investigation (Review)'.
++ The case in question must have a Case Lead.
++ The Case Status must be 'Investigation (Review)'.
 
 ##Assumptions
 + A supported browser is being used.
