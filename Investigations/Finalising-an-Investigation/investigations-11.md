@@ -17,7 +17,7 @@ A user should receive an email informing them when an investigation has been fin
 
 ##Test Steps:
 
-1 Navigate to the incident in question.
+1 Navigate to the case in question.
 
 2 Click the 'Options' button.
 
