@@ -3,7 +3,7 @@
 #Finalising an Investigation - Notification to Accountable Person
 
 ##Description
-A user should receive an email informing them when an investigation has been finalised on an incident for which they are the Accountable Person.
+A user should receive an email informing them when an investigation has been finalised on a case for which they are the Accountable Person.
 
 ##Preconditions 
 + The tester must already be registered with an email address and password.
