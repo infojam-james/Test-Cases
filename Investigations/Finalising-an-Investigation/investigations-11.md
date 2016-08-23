@@ -3,11 +3,12 @@
 #Finalising an Investigation - Notification to Case Lead
 
 ##Description
-A user should receive an email informing them when an investigation has been finalised on an incident for which they are the Case Lead.
+A user should receive an email informing them when an investigation has been finalised on a case for which they are the Case Lead.
 
 ##Preconditions 
 + The tester must already be registered with an email address and password.
 + The tester must have health & safety system administrator permissions.
++ The tester is logged in.
 + The case in question must have a Case Lead.
 + The Case Status must be 'Investigation (Review)'.
 
@@ -30,7 +31,7 @@ A user should receive an email informing them when an investigation has been fin
 6 Click the 'Save changes' button.
 
 ##Expected Result
-The Case Lead of the incident receives an email containing the following message:
+The Case Lead receives an email containing the following message:
 
 >**YorSafety: Investigation finalised**
 
