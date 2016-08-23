@@ -8,8 +8,9 @@ A user should receive an email informing them when an investigation has been fin
 ##Preconditions 
 + The tester must already be registered with an email address and password.
 + The tester must have health & safety system administrator permissions.
++ The tester is logged in.
 + The person the incident happened to must have an Accountable Person (e.g. Assistant Director).
-+ The Case Status for the incident in question must be 'Investigation (Review)'.
++ The Case Status must be 'Investigation (Review)'.
 
 ##Assumptions
 + A supported browser is being used.
@@ -39,7 +40,5 @@ The Accountable Person of the person the incident happened to receives an email 
 >It is essential that, in addition to the investigation itself, you review the Actions and add additional ones if necessary.  You can use the comments box within each action to alert the Case Lead.  To authorise the incident log into [Yorsafety](https://www.yorsafety.org.uk) and click the 'Authorise' button in the 'Investigations' section.   Once authorised the Health & Safety Team will close the incident but the Actions will stay live until completed.
 
 ##Concurrent Expected Results
-
-See [Notification to Health & Safety Co-ordinator]
 
 See [Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-11.md)
