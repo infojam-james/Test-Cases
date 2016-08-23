@@ -13,7 +13,7 @@ A user should receive an email informing them when an investigation has been fin
 
 ##Assumptions
 + A supported browser is being used.
-+ The tester has access to the email inbox for the Case Lead of the incident in question.
++ The tester has access to the email inbox for the Case Lead.
 
 ##Test Steps:
 
