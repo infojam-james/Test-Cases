@@ -3,28 +3,45 @@
 #Updating the First Aid form
 
 ##Description
-The user should be able to automatically update the First Aid form if changes are made to incident form that affect the content of the First Aid form.
+The the First Aid form should automatically update if changes are made to fields in the incident form that pre-populate the First Aid form.
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
 + The tester must have health & safety system administrator permissions.
++ The tester is logged in.
 + The categorisation for the incident prompted the 'Was First Aid administered?' question.
 + The 'Was First Aid administered?' question for the incident was answered 'Yes'.
++ The Case Status must be 'Closed'.
 
 ##Assumptions
 + A supported browser is being used.
-+ The tester has already amended some of the pre-populated content of the First Aid form.
++ All mandatory questions were completed when recording the incident in question.
 
 ##Test Steps:
 
-1 Navigate to the First Aid form
+1 Navigate to the case in question
 
-2 Delete all pre-populated content from the form
+2 Navigate to the 'My Tasks' tab
 
-3 Click the 'Update from incident form' button *(this will prompt a pop-up box asking 'Are you sure you wish to update?  All current content will be overwritten.')*
+3 In the 'Documents' section, Select 'Open Link in New Tab' *(this will open a new browser window containing the First Aid Form)*
 
-4 Click the 'Confirm update' button in the confirmation box
+4 Make a note of the text pre-populating one or more fields in the form
+
+5 Close the First Aid form
+
+6 Navigate to the 'Incident' tab
+
+7 Click the 'Edit Incident' button
+
+8 Change the information entered into the fields known to pre-populate the First Aid question fields noted in Step 4 (see [Pre-populating the First Aid form](https://github.com/infojam-james/test-cases/edit/master/First-Aid/first-aid-3.md))
+
+9 Click the 'Update' button
+
+10 Navigate to the 'My Tasks' tab
+
+11 In the 'Documents' section, Select 'Open Link in New Tab' *(this will open a new browser window containing the First Aid Form)*
+
+12 Compare the text pre-populating the fields with the changes made in the Step 8.
 
 ##Expected Results
-+ The pop-up confirmation box should disappear
-+ The First Aid form should be populated with content from the relevant fields of the incident form (see [Pre-populating the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-3.md) 
++ The text pre-populating the First Aid form should match the changes just made when editing the incident form.
