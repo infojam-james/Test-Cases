@@ -3,13 +3,15 @@
 #Pre-populating the First Aid form
 
 ##Description
-When a Confidential First Aid form is generated, the following fields should be pre-populated with information previously entered at the time of the incident's recording.
+When a Confidential First Aid form is generated, the form should be pre-populated with information previously entered at the time of the recording the incident.
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
 + The tester must have system administrator permissions.
++ The tester is logged in.
 + The categorisation for the incident prompted the 'Was First Aid administered?' question.
 + The 'Was First Aid administered?' question for the incident was answered 'Yes'.
++ The Case Status must be 'Closed'.
 
 ##Assumptions
 + A supported browser is being used.
@@ -17,11 +19,11 @@ When a Confidential First Aid form is generated, the following fields should be 
 
 ##Test Steps:
 
-1 Navigate to the 'My Tasks' screen of the incident in question
+1 Navigate to the case in question
 
-2 Click the 'Options' button
+2 Navigate to the 'My Tasks' tab
 
-3 Select 'Open First Aid Form' *(this will open a new browser window containing the First Aid Form)*
+3 In the 'Documents' section, select 'First Aid Form' *(this will open a new browser window containing the First Aid Form)*
 
 4 Click the 'Options' button
 
@@ -33,22 +35,21 @@ When a Confidential First Aid form is generated, the following fields should be 
 
 |First Aid Form field|Matching Incident Report Form field|Incident Report Form section|
 |--------------------|:------------------------------------|:---------------------------|
-|Name of Casualty|Forename *&* Surname|2: Their Details|
+|Name of Casualty|Forename *and* Surname|2: Their Details|
 |Job Title|Job Title|2: Their Details|
 |Incident Location|Incident Address|3: Where & When|
 |Age|Age|2: Their Details|
-|Employee|*Insert tick if* Are you/Are they *is* **'Employee'**|1: Who|
-|Pupil|*Insert tick if* Are you/Are they *is* **'Pupil'**|1: Who|
-|Member of public|*Insert tick if* Are you/Are they *is* **'Member of Public'**|1: Who|
-|Customer/Resident|*Insert tick if* Are you/Are they *is either* **'Customer'** *or* **'Resident'**|1: Who|
-|Other (specify)|Are you/Are they *(text) if* Are you/Are they *is not* **'Employee','Pupil','Member of Public','Customer'** *or* **'Resident'**|1: Who|
+|Person Type|Person Type|1: Who|
 |Incident date|Date of Incident|3: Where & When|
 |Incident time|Time of Incident|3: Where & When|
-|Nature of injury|Injury Detail / Treatment|5: Further Info|
-|Treatment administered/advice given|Advice given / received|5: Further Info|
-|Referred for medical attention (Yes/No)|Were they referred for medical attention?|5: Further Info|
+|Follow up with Parent/Guardian/Other?|Was there communication with Parent / Carer?|5: Further Info|
+|Nature of injury|Detail of Incident|5: Further Info|
+|Treatment administered/advice given|Injury Detail / Treatment *and* Advice given / received|5: Further Info|
+|Referred for medical attention?|Were they referred for medical attention?|5: Further Info|
+|If YES, give details:|Please give details *(prompted by answering 'Yes' to 'Were they referred for medical attention?')*|5: Further Info|
 |Time of treatment: (24 hour clock)|Time of Treatment?|5: Further Info|
 |Name of first aider or approved person:|Name of First Aider?|5: Further Info|
+|IRF Ref. no.|Case Reference #|-|
 
 ##Expected Results
 + The First Aid form should be pre-populated with the exact information entered into the incident form.
