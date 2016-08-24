@@ -42,7 +42,7 @@ When a Confidential First Aid form is generated, the form should be pre-populate
 |Person Type|Person Type|1: Who|
 |Incident date|Date of Incident|3: Where & When|
 |Incident time|Time of Incident|3: Where & When|
-|Follow up with Parent/Guardian/Other?|Was there communication with Parent / Carer?|5: Further Info|
+|Follow up with Parent/Guardian?|Was there communication with Parent / Carer?|5: Further Info|
 |Nature of injury|Detail of Incident|5: Further Info|
 |Treatment administered/advice given|Injury Detail / Treatment *and* Advice given / received|5: Further Info|
 |Referred for medical attention?|Were they referred for medical attention?|5: Further Info|
