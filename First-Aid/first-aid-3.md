@@ -7,7 +7,7 @@ When a Confidential First Aid form is generated, the form should be pre-populate
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
-+ The tester must have system administrator permissions.
++ The tester must have health & safety system administrator permissions.
 + The tester is logged in.
 + The categorisation for the incident prompted the 'Was First Aid administered?' question.
 + The 'Was First Aid administered?' question for the incident was answered 'Yes'.
