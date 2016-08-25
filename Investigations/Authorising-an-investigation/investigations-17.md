@@ -24,4 +24,4 @@ The Health & Safety Co-ordinator of the incident receives an email containing th
 
 >**YorSafety: Investigation authorised**
 
->This investigation has now been authorised by the Accountable Person.
+>This investigation has now been authorised by the Accountable Person.  The Health & Safety Team will shortly close the case.  The Case Lead will still be able to add and update actions.
