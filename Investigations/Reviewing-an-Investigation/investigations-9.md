@@ -34,4 +34,4 @@ The Case Lead receives an email containing the following message:
 
 See [Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-8.md)
 
-See [Notification to Health & Safety Allocated Person](https://github.com/infojam-james/test-cases/edit/master/Investigations/Reviewing-an-Investigation/investigations-7.md)
+See [Notification to Health & Safety Allocated Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reviewing-an-Investigation/investigations-7.md)
