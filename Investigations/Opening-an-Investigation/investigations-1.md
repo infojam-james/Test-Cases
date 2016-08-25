@@ -30,12 +30,14 @@ A user should receive an email confirming when an investigation is opened on an 
 
 6 Click the 'Save changes' button.
 
-##Expected Result
-The health & safety allocated person receives an email containing the following message:
+##Expected Results
++ The health & safety allocated person receives an email containing the following message:
 
 >**YorSafety: Investigation questions initiated**
 
 >The status of the case has been changed to 'Investigation (Open)'.
+
++ The health & safety allocated person can see the case on their dashboard, with the status 'Investigation (Open)'.
 
 ##Concurrent Expected Results
 
