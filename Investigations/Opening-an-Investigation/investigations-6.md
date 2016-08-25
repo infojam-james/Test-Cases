@@ -9,7 +9,7 @@ A user should receive an email confirming when an investigation is opened on an 
 + The tester must already be registered with an email address and password.
 + The tester must have health & safety system administrator permissions.
 + An email address must have been entered into the 'Email' field on the incident form.
-+ The incident in question must not have a Status of 'Delete'.
++ The incident in question must not have a Status of 'Delete' or 'Investigation (Review)'.
 + An investigation has not previously been instigated for the incident in question.
 
 ##Assumptions
