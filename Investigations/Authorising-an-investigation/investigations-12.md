@@ -8,8 +8,9 @@ An 'Authorise' button, visible only to the Accountable Person (e.g. Assistant Di
 ##Preconditions 
 + The tester must already be registered with an email address and password.
 + The tester must have health & safety system administrator permissions.
++ The tester must be logged in.
 + The person the incident happened to must have an Accountable Person (e.g. Assistant Director).
-+ The Case Status for the incident in question must be 'Investigation (Review)'
++ The Case Status must be 'Investigation (Review)'
 
 ##Assumptions
 + A supported browser is being used.
@@ -17,7 +18,7 @@ An 'Authorise' button, visible only to the Accountable Person (e.g. Assistant Di
 
 ##Test Steps:
 
-1 Navigate to the 'My Tasks' tab of the incident in question.
+1 Navigate to the 'My Tasks' tab of the case.
 
 2 Click the 'Options' button.
 
@@ -30,4 +31,4 @@ An 'Authorise' button, visible only to the Accountable Person (e.g. Assistant Di
 6 Click the 'Save changes' button.
 
 ##Expected Results
-+ An 'Authorise' button appears in the bar at the top of the investigation form.
++ The Accountable Person can see an 'Authorise' button appears in the bar at the top of the investigation form.
