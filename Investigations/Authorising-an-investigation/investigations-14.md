@@ -18,5 +18,8 @@ The Case Status of an incident should change when a completed Investigation form
 
 2 Click the 'Authorise' button.
 
+3 In the pop-up box, click the 'OK' button.
+
 ##Expected Results
-+ The Case Status of the incident in question changes to 'Authorised'.
++ The pop-up box displays the message, "Thank you for authorising this investigation.  It has now been passed to the Health & Safety Team to close the case."
++ The Case Status of the incident in question changes to 'Investigation (Authorised)'.
