@@ -5,7 +5,7 @@
 
 ####Opening an Investigation
 
-[Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-4.md)
+**[Notification to Health & Safety Co-ordinator](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-4.md)**
 
 ~~[Notification to Health & Safety Allocated Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Opening-an-Investigation/investigations-1.md)~~
 
@@ -25,13 +25,13 @@
 
 ####Re-opening an Investigation
 
-[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reopening-an-Investigation/investigations-10.md)
+**[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Reopening-an-Investigation/investigations-10.md)**
 
 ####Finalising an Investigation
 
-[Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-10.md)
+**[Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-10.md)**
 
-[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-11.md)
+**[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-11.md)**
 
 ####Authorising an Investigation
 
