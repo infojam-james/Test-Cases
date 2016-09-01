@@ -35,11 +35,11 @@
 
 ####Authorising an Investigation
 
+~~[Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-14.md)~~
+
 ~~[Authorise Button for Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-12.md)~~
 
 ~~[Authorise Button not visible](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-13.md)~~
-
-~~[Status Change](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-14.md)~~
 
 ~~[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Authorising-an-investigation/investigations-15.md)~~
 
