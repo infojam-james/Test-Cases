@@ -28,7 +28,7 @@ If NO H&S Allocation then send email to H&S Team Mailbox
 
 Text for email to H&S Allocation/H&S Team:
 
->**[Case ID] Yorsafety: **
+>**[Case ID] Yorsafety: Incident Alert (no Accountable Person)**
 
 >An alert was triggered for this incident, but the case currently has no Accountable Person allocated to it.  You will need to identify the Accountable Person, notify them of the incident, and add them to the case Permissions.
 
