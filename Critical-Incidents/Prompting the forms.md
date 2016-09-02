@@ -26,3 +26,6 @@ Severity of Case = Critical
 **THEN**
 
 Forms appear
+
+
+Case Severity can be manually changed *from* Critical, without affecting the Categorisation.
