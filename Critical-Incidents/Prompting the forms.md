@@ -1,3 +1,7 @@
+[Return to Contents](https://github.com/infojam-james/test-cases/blob/master/Contents.md)
+
+##Prompting the Critical Incidents Forms
+
 **IF** 
 
 Incident Categorisation has 'Critical Incident' tag (to be created)
