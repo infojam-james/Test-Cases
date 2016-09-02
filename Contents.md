@@ -55,7 +55,7 @@
 ~~[Updating the First Aid form](https://github.com/infojam-james/test-cases/blob/master/First-Aid/first-aid-5.md)~~
 
 ###Critical Incidents
-[Prompting the Critical Incidents forms](https://github.com/infojam-james/Test-Cases/blob/master/Critical-Incidents/Prompting%20the%20forms.md)
+**[Prompting the Critical Incidents forms](https://github.com/infojam-james/Test-Cases/blob/master/Critical-Incidents/Prompting%20the%20forms.md)**
 
 ###High-Level Exceptions
-[Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/Notification%20to%20Accountable%20Person.md)
+**[Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/Notification%20to%20Accountable%20Person.md)**
