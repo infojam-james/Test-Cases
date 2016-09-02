@@ -29,7 +29,7 @@
 
 ####Finalising an Investigation
 
-**[Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-10.md)**
+~~[Notification to Accountable Person](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-10.md)~~
 
 **[Notification to Case Lead](https://github.com/infojam-james/test-cases/blob/master/Investigations/Finalising-an-Investigation/investigations-11.md)**
 
