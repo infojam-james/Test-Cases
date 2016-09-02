@@ -84,3 +84,6 @@
 [Saving changes to the 'Health & Safety Manager's Action Card'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-11.md)
 
 [Saving changes to the 'Educational Visits Critical Incident Checklist'](https://github.com/infojam-james/test-cases/blob/master/Fatalities/fatalities-12.md)
+
+###High-Level Exceptions
+[Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/Notification%20to%20Accountable%20Person.md)
