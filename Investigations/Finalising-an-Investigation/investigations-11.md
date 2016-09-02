@@ -35,7 +35,7 @@ The Case Lead receives an email containing the following message:
 
 >**YorSafety: Investigation finalised**
 
->This investigation has been finalised by the Health & Safety Team.  You will notified again when it has been authorised.
+>This investigation has been finalised by the Health & Safety Team.  You will be notified again when it has been authorised.
 
 ##Concurrent Expected Results
 
