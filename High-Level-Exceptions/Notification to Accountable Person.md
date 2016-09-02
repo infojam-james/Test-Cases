@@ -10,15 +10,17 @@ Email to Accountable Person
 
 Email text:
 
->An incident has been logged which you are connected with that has triggered a high alert for one of the following reasons:
+>**[Case ID] Yorsafety: Incident Alert**
 
->+ The H&S team have categorised the severity of the incident as high (this includes all incidents that are RIDDOR reportable
+>An incident has been reported which you are connected to that has triggered an alert.  This will be for one of the following reasons:
 
->+ The incident has the potential to cause reputational damage   
+>+ The H&S team have categorised the severity of the incident as 'high' (this will include all incidents that are RIDDOR reportable)
 
->+ The incident has or is likely to cause damage of 10k or above
+>+ The incident has the potential to cause reputational damage
 
->You can track this incident on your dashboard
+>+ The incident has, or is likely to cause, damage of £10,000 or above
+
+>You can monitor the progress of this incident by logging in to Yorsafety.
 
 If NO Accountable Person then send email to H&S Allocation
 
