@@ -32,6 +32,6 @@ Text for email to H&S Allocation/H&S Team:
 
 >An alert was triggered for this incident, but the case currently has no Accountable Person allocated to it.  You will need to identify the Accountable Person, notify them of the incident, and add them to the case Permissions.
 
->You are advised to make a note of this in the Notes section of the case.
+>You should use the Notes section of the case to record this.
 
 Once an email has been sent, no other emails re high-level exceptions should ever be sent again.
