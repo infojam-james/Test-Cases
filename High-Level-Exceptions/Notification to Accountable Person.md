@@ -8,7 +8,7 @@ OR
 THEN
 Email to Accountable Person
 
-Email text:
+Text for email to Accountable Person:
 
 >**[Case ID] Yorsafety: Incident Alert**
 
@@ -26,4 +26,12 @@ If NO Accountable Person then send email to H&S Allocation
 
 If NO H&S Allocation then send email to H&S Team Mailbox
 
-Once an email has been sent, no other emails re High-level exceptions should ever be sent again.
+Text for email to H&S Allocation/H&S Team:
+
+>**[Case ID] Yorsafety: **
+
+>An alert was triggered for this incident, but the case currently has no Accountable Person allocated to it.  You will need to identify the Accountable Person, notify them of the incident, and add them to the case Permissions.
+
+>You are advised to make a note of this in the Notes section of the case.
+
+Once an email has been sent, no other emails re high-level exceptions should ever be sent again.
