@@ -34,4 +34,4 @@ Text for email to H&S Allocation/H&S Team:
 
 >You should use the Notes section of the case to record this.
 
-Once an email has been sent, no other emails re high-level exceptions should ever be sent again.
+Once an email has been sent, *no* other emails re high-level exceptions should ever be sent again.
