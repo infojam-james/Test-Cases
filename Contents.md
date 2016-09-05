@@ -60,4 +60,4 @@
 ###High-Level Exceptions
 **[10k+: Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_1.md)**
 
-**[10k+: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_4.md)
+**[10k+: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_4.md)**
