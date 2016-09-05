@@ -57,7 +57,7 @@
 ###Critical Incidents
 [Prompting the Critical Incidents forms](https://github.com/infojam-james/Test-Cases/blob/master/Critical-Incidents/Prompting%20the%20forms.md)
 
-###High-Level Exceptions
+###High-Level Alerts
 [10k+: Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_1.md)
 
 [10k+: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_4.md)
