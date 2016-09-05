@@ -21,7 +21,7 @@ THEN
 Email to Accountable Person
 
 
-Text for email to Accountable Person:
+##Text for email to Accountable Person:
 
 >**[Case ID] Yorsafety: Incident Alert**
 
@@ -39,7 +39,7 @@ If NO Accountable Person then send email to H&S Allocation
 
 If NO H&S Allocation then send email to H&S Team Mailbox
 
-Text for email to H&S Allocation/H&S Team:
+##Text for email to H&S Allocation/H&S Team:
 
 >**[Case ID] Yorsafety: Incident Alert (no Accountable Person)**
 
