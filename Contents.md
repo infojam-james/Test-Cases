@@ -65,3 +65,5 @@
 [10k+: Notification to Health & Safety Team Mailbox](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_7.md)
 
 [10k+: Notification not to be sent more than once](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_12.md)
+
+[10k+: Do not send notification if 'Update' not clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_13.md)
