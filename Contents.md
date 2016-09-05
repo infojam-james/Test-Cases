@@ -58,24 +58,30 @@
 [Prompting the Critical Incidents forms](https://github.com/infojam-james/Test-Cases/blob/master/Critical-Incidents/Prompting%20the%20forms.md)
 
 ###High-Level Alerts
+
+###Notifications to Accountable Person
 [10k+: Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_1.md)
 
 [Reputational Damage: Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_2.md)
 
 [High Severity: Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_3.md)
 
+###Notifications to Health & Safety Allocated Person
 [10k+: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_4.md)
 
 [Reputational Damage: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_5.md)
 
+###Notifications to Health & Safety Team Mailbox
 [10k+: Notification to Health & Safety Team Mailbox](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_7.md)
 
 [Reputational Damage: Notification to Health & Safety Team Mailbox](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_8.md)
 
+###Notifications not to be sent more than once 
 [10k+: Notification not to be sent more than once](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_12.md)
 
 [Reputational Damage: Notification not to be sent more than once](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_16.md)
 
+###Do not notifications if 'Update' or 'Save Changes' buttons not clicked 
 [10k+: Do not send notification if 'Update' not clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_13.md)
 
 [Reputational Damage: Do not send notification if 'Update' not clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_17.md)
