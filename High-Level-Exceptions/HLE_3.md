@@ -3,7 +3,7 @@
 #High Severity: Notification to Accountable Person
 
 ##Description
-The Accountable Person on a case should receive an email if a case is flagged as having High severity.
+The Accountable Person on a case should receive an email if the case is flagged as having High Severity.
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
