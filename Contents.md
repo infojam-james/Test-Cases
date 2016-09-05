@@ -64,6 +64,8 @@
 
 [10k+: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_4.md)
 
+[Reputational Damage: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_5.md)
+
 [10k+: Notification to Health & Safety Team Mailbox](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_7.md)
 
 [10k+: Notification not to be sent more than once](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_12.md)
