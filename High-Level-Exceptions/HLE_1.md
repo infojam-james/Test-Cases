@@ -15,6 +15,7 @@ The Accountable Person on a case should receive an email if a case is flagged as
 + The 'Severity' of the case is set to 'Medium', 'Low', or is blank.
 + No High-Level Alert email associated with this case has previously been sent.
 + The case in question has an Accountable Person.
++ The tester has access to the email inbox associated with the Accountable Person's user account.
 
 ##Assumptions
 + A supported browser is being used.
@@ -31,3 +32,17 @@ The Accountable Person on a case should receive an email if a case is flagged as
 5 Click the 'Update' button
 
 ##Expected Results
+
+The Accountable Person receives the following email:
+
+>**[Case ID] Yorsafety: Incident Alert**
+
+>An incident has been reported which you are connected to that has triggered an alert.  This will be for one of the following reasons:
+
+>+ The H&S team have categorised the severity of the incident as 'high' (this will include all incidents that are RIDDOR reportable)
+
+>+ The incident has the potential to cause reputational damage
+
+>+ The incident has, or is likely to cause, damage of £10,000 or above
+
+>You can monitor the progress of this incident by logging in to Yorsafety.
