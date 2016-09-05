@@ -13,7 +13,7 @@ The Accountable Person on a case should receive an email if a case is flagged as
 + The 'Will this cause £10k+ in lost revenue?' question for the case is not set to 'Yes'.
 + The 'Will this cause reputational damage?' question for the case is not set to 'Yes'.
 + The 'Severity' of the case is set to 'Medium', 'Low', or is blank.
-+ No High-Level Alert email associated with this case has previously been sent.
++ The 'High-Level Email Sent' flag in the database is *not* set to 'Yes'.
 + The case in question has an Accountable Person.
 + The tester has access to the email inbox associated with the Accountable Person's user account.
 
