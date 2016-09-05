@@ -3,11 +3,21 @@
 #Notification to Accountable Person
 
 If Severity = High
+
 OR
+
+If Severity = Critical
+
+OR
+
 Reputational Damage = Yes
+
 OR
+
 10K+ = Yes
+
 THEN
+
 Email to Accountable Person
 
 Text for email to Accountable Person:
