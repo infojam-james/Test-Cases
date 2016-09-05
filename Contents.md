@@ -72,5 +72,7 @@
 
 [10k+: Notification not to be sent more than once](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_12.md)
 
+[Reputational Damage: Notification not to be sent more than once](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_16.md)
+
 [10k+: Do not send notification if 'Update' not clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_13.md)
 
