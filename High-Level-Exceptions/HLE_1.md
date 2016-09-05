@@ -33,7 +33,7 @@ The Accountable Person on a case should receive an email if a case is flagged as
 
 ##Expected Results
 
-The Accountable Person receives the following email:
++ The Accountable Person receives the following email:
 
 >**[Case ID] Yorsafety: Incident Alert**
 
@@ -46,3 +46,5 @@ The Accountable Person receives the following email:
 >+ The incident has, or is likely to cause, damage of £10,000 or above
 
 >You can monitor the progress of this incident by logging in to Yorsafety.
+
++ The 'High-Level Email Sent' flag in the database is changed to 'Yes'.
