@@ -3,7 +3,7 @@
 #10k+: Notification to Health & Safety Allocated Person
 
 ##Description
-The Health & Safety Allocated person on a case should receive an email if a case is flagged as causing £10,000 or more in lost revenue if the case does not have an Accountable Person.
+The Health & Safety Allocated Person on a case should receive an email if a case is flagged as causing £10,000 or more in lost revenue if the case does not have an Accountable Person.
 
 ##Preconditions
 + The tester must already be registered with an email address and password.
@@ -15,8 +15,8 @@ The Health & Safety Allocated person on a case should receive an email if a case
 + The 'Severity' of the case is set to 'Medium', 'Low', or is blank.
 + No High-Level Alert email associated with this case has previously been sent.
 + The case in question does *not* have an Accountable Person.
-+ The case in question has a Health & Safety Allocated person.
-+ The tester has access to the email inbox associated with the Accountable Person's user account.
++ The case in question has a Health & Safety Allocated Person.
++ The tester has access to the email inbox associated with the Health & Safety Allocated Person's user account.
 
 ##Assumptions
 + A supported browser is being used.
