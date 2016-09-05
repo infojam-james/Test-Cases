@@ -13,7 +13,7 @@ The Health & Safety Team mailbox should receive an email if a case is flagged as
 + The 'Will this cause £10k+ in lost revenue?' question for the case is not set to 'Yes'.
 + The 'Will this cause reputational damage?' question for the case is not set to 'Yes'.
 + The 'Severity' of the case is set to 'Medium', 'Low', or is blank.
-+ No High-Level Alert email associated with this case has previously been sent.
++ The 'High-Level Email Sent' flag in the database is *not* set to 'Yes'.
 + The case in question does *not* have an Accountable Person.
 + The case in question does *not* have a Health & Safety Allocated Person.
 + The tester has access to the Health & Safety Team email inbox.
