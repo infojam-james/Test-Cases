@@ -78,6 +78,8 @@
 
 [Reputational Damage: Notification to Health & Safety Team Mailbox](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_8.md)
 
+[High Severity: Notification to Health & Safety Team Mailbox](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_9.md)
+
 ###Notifications not to be sent more than once 
 [10k+: Notification not to be sent more than once](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_12.md)
 
