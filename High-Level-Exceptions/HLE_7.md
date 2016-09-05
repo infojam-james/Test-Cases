@@ -15,7 +15,7 @@ The Health & Safety Team mailbox should receive an email if a case is flagged as
 + The 'Severity' of the case is set to 'Medium', 'Low', or is blank.
 + No High-Level Alert email associated with this case has previously been sent.
 + The case in question does *not* have an Accountable Person.
-+ The case in question does *not* have a Health & Safety Allocated person.
++ The case in question does *not* have a Health & Safety Allocated Person.
 + The tester has access to the Health & Safety Team email inbox.
 
 ##Assumptions
@@ -34,7 +34,7 @@ The Health & Safety Team mailbox should receive an email if a case is flagged as
 
 ##Expected Results
 
-+ The Health & Safety Allocated Person receives the following email:
++ The Health & Safety Team mailbox receives the following email:
 
 >**[Case ID] Yorsafety: Incident Alert (no Accountable Person)**
 
