@@ -20,6 +20,7 @@ THEN
 
 Email to Accountable Person
 
+
 Text for email to Accountable Person:
 
 >**[Case ID] Yorsafety: Incident Alert**
