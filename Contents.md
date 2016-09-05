@@ -76,3 +76,5 @@
 
 [10k+: Do not send notification if 'Update' not clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_13.md)
 
+[Reputational Damage: Do not send notification if 'Update' not clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_17.md)
+
