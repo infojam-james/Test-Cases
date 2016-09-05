@@ -92,3 +92,7 @@
 
 [Reputational Damage: Do not send notification if 'Update' not clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_17.md)
 
+[High Severity Damage: Do not send notification if 'Close' is clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_19.md)
+
+[High Severity Damage: Do not send notification if 'x' is clicked](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_18.md)
+
