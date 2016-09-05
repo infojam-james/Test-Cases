@@ -20,7 +20,7 @@ The Accountable Person on a case should receive an email if a case is flagged as
 ##Assumptions
 + A supported browser is being used.
 
-##Test Steps:
+##Test Steps
 1 Navigate to the test case
 
 2 Navigate to the 'My Tasks' tab
