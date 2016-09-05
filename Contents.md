@@ -62,6 +62,8 @@
 
 [Reputational Damage: Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_2.md)
 
+[High Severity: Notification to Accountable Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_3.md)
+
 [10k+: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_4.md)
 
 [Reputational Damage: Notification to Health & Safety Allocated Person](https://github.com/infojam-james/Test-Cases/blob/master/High-Level-Exceptions/HLE_5.md)
