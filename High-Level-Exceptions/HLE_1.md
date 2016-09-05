@@ -21,10 +21,13 @@ The Accountable Person on a case should receive an email if a case is flagged as
 
 ##Test Steps:
 1 Navigate to the test case
-2 Navigate to the 'My Tasks' tab
-3 Click the drop-down box for 'Will this cause £10k+ in lost revenue?'
-4 Select 'Yes'
-5 Click the 'Update' button
 
+2 Navigate to the 'My Tasks' tab
+
+3 Click the drop-down box for 'Will this cause £10k+ in lost revenue?'
+
+4 Select 'Yes'
+
+5 Click the 'Update' button
 
 ##Expected Results
